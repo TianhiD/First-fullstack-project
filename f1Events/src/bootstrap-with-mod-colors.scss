@@ -1,0 +1,50 @@
+
+$theme-colors : (
+  "primary": rgb(0, 123, 255),
+  "secondary": rgb(170, 170, 170),
+  "light": rgb(255, 249, 247),
+  "dark": rgb(62, 62, 62),
+  "fun": rgb(188, 61, 25),
+  "fun-bg": rgb(255, 244, 244),
+  "fun-btn": rgb(145, 57, 57),
+  
+);
+
+.logo-small {
+  width: 8rem; 
+}
+
+
+// RacingGame style 
+
+.game-container {
+  position: relative;
+  height: 25rem;
+  border: 0.3rem solid rgb(188, 61, 25);
+  border-block-style: dashed;
+  overflow: auto;
+  background: lightblue;
+  margin-bottom: 70px;
+}
+
+.car {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.obstacle {
+  position: absolute;
+}
+
+.goal {
+  position: absolute;
+}
+
+.turn-car {
+  transform: scaleX(-1);
+}
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
