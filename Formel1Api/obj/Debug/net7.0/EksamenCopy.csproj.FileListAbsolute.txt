@@ -1,0 +1,377 @@
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.csproj.AssemblyReference.cache
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.AssemblyInfoInputs.cache
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.AssemblyInfo.cs
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.csproj.CoreCompileInputs.cache
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cs
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cache
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/appsettings.Development.json
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/appsettings.json
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/EksamenCopy.staticwebassets.runtime.json
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/EksamenCopy
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/EksamenCopy.deps.json
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/EksamenCopy.runtimeconfig.json
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Humanizer.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/System.CodeDom.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/EksamenCopy/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets/msbuild.EksamenCopy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets/msbuild.build.EksamenCopy.props
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EksamenCopy.props
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EksamenCopy.props
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets.build.json
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/staticwebassets.development.json
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/scopedcss/bundle/EksamenCopy.styles.css
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.csproj.CopyComplete
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/refint/EksamenCopy.dll
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/EksamenCopy.genruntimeconfig.cache
+/Users/safaelfarri/Desktop/EksamenCopy/obj/Debug/net7.0/ref/EksamenCopy.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/appsettings.json
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.staticwebassets.runtime.json
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.deps.json
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.runtimeconfig.json
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Humanizer.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.AssemblyReference.cache
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.AssemblyInfoInputs.cache
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.AssemblyInfo.cs
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.CoreCompileInputs.cache
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cs
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cache
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.EksamenCopy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.build.EksamenCopy.props
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EksamenCopy.props
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EksamenCopy.props
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/scopedcss/bundle/EksamenCopy.styles.css
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.CopyComplete
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/refint/EksamenCopy.dll
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.genruntimeconfig.cache
+/Users/safaelfarri/Desktop/Formel1Api/obj/Debug/net7.0/ref/EksamenCopy.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/appsettings.json
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/EksamenCopy.staticwebassets.runtime.json
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/EksamenCopy
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/EksamenCopy.deps.json
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/EksamenCopy.runtimeconfig.json
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/EksamenCopy.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/EksamenCopy.pdb
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Humanizer.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tianhidevold/Downloads/Formel1Api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.AssemblyReference.cache
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.AssemblyInfoInputs.cache
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.AssemblyInfo.cs
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.CoreCompileInputs.cache
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cs
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cache
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.EksamenCopy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.build.EksamenCopy.props
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EksamenCopy.props
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EksamenCopy.props
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/scopedcss/bundle/EksamenCopy.styles.css
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.CopyComplete
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.dll
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/refint/EksamenCopy.dll
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.pdb
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/EksamenCopy.genruntimeconfig.cache
+/Users/tianhidevold/Downloads/Formel1Api/obj/Debug/net7.0/ref/EksamenCopy.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/appsettings.json
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.staticwebassets.runtime.json
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.deps.json
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.runtimeconfig.json
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/EksamenCopy.pdb
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Humanizer.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/tianhidevold/Desktop/Formel1Api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.AssemblyReference.cache
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.AssemblyInfoInputs.cache
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.AssemblyInfo.cs
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.CoreCompileInputs.cache
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cs
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cache
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.EksamenCopy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.build.EksamenCopy.props
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EksamenCopy.props
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EksamenCopy.props
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/scopedcss/bundle/EksamenCopy.styles.css
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.csproj.CopyComplete
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.dll
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/refint/EksamenCopy.dll
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.pdb
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/EksamenCopy.genruntimeconfig.cache
+/Users/tianhidevold/Desktop/Formel1Api/obj/Debug/net7.0/ref/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/appsettings.Development.json
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/appsettings.json
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/EksamenCopy.staticwebassets.runtime.json
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/EksamenCopy
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/EksamenCopy.deps.json
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/EksamenCopy.runtimeconfig.json
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Humanizer.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/System.CodeDom.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.csproj.AssemblyReference.cache
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.AssemblyInfoInputs.cache
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.AssemblyInfo.cs
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.csproj.CoreCompileInputs.cache
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cs
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cache
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets/msbuild.EksamenCopy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets/msbuild.build.EksamenCopy.props
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EksamenCopy.props
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EksamenCopy.props
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets.build.json
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/staticwebassets.development.json
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/scopedcss/bundle/EksamenCopy.styles.css
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.csproj.CopyComplete
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/refint/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/EksamenCopy.genruntimeconfig.cache
+/Users/safaelfarri/Downloads/Formel1Api 2/obj/Debug/net7.0/ref/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/appsettings.Development.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/appsettings.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/EksamenCopy.staticwebassets.runtime.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/EksamenCopy
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/EksamenCopy.deps.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/EksamenCopy.runtimeconfig.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /bin/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.csproj.AssemblyReference.cache
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.AssemblyInfoInputs.cache
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.AssemblyInfo.cs
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.csproj.CoreCompileInputs.cache
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cs
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.MvcApplicationPartsAssemblyInfo.cache
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets/msbuild.EksamenCopy.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets/msbuild.build.EksamenCopy.props
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EksamenCopy.props
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EksamenCopy.props
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets.pack.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets.build.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/staticwebassets.development.json
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/scopedcss/bundle/EksamenCopy.styles.css
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.csproj.CopyComplete
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/refint/EksamenCopy.dll
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.pdb
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/EksamenCopy.genruntimeconfig.cache
+/Users/safaelfarri/Downloads/Web-eksamen/Formel1Api /obj/Debug/net7.0/ref/EksamenCopy.dll

@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/css/doc.css",
+      "PackagePath": "staticwebassets/css/doc.css"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/css/shared.css",
+      "PackagePath": "staticwebassets/css/shared.css"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/docs.html",
+      "PackagePath": "staticwebassets/docs.html"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/1.jpg",
+      "PackagePath": "staticwebassets/images/cars/1.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/10.jpg",
+      "PackagePath": "staticwebassets/images/cars/10.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/2.jpg",
+      "PackagePath": "staticwebassets/images/cars/2.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/3.jpg",
+      "PackagePath": "staticwebassets/images/cars/3.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/4.jpg",
+      "PackagePath": "staticwebassets/images/cars/4.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/5.jpg",
+      "PackagePath": "staticwebassets/images/cars/5.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/6.jpg",
+      "PackagePath": "staticwebassets/images/cars/6.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/7.jpg",
+      "PackagePath": "staticwebassets/images/cars/7.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/8.jpg",
+      "PackagePath": "staticwebassets/images/cars/8.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/cars/9.jpg",
+      "PackagePath": "staticwebassets/images/cars/9.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/1.jpg",
+      "PackagePath": "staticwebassets/images/drivers/1.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/10.jpg",
+      "PackagePath": "staticwebassets/images/drivers/10.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/11.jpg",
+      "PackagePath": "staticwebassets/images/drivers/11.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/12.jpg",
+      "PackagePath": "staticwebassets/images/drivers/12.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/13.jpg",
+      "PackagePath": "staticwebassets/images/drivers/13.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/14.jpg",
+      "PackagePath": "staticwebassets/images/drivers/14.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/15.jpg",
+      "PackagePath": "staticwebassets/images/drivers/15.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/16.jpg",
+      "PackagePath": "staticwebassets/images/drivers/16.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/17.jpg",
+      "PackagePath": "staticwebassets/images/drivers/17.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/18.jpg",
+      "PackagePath": "staticwebassets/images/drivers/18.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/19.jpg",
+      "PackagePath": "staticwebassets/images/drivers/19.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/2.jpg",
+      "PackagePath": "staticwebassets/images/drivers/2.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/20.jpg",
+      "PackagePath": "staticwebassets/images/drivers/20.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/21.jpg",
+      "PackagePath": "staticwebassets/images/drivers/21.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/22.jpg",
+      "PackagePath": "staticwebassets/images/drivers/22.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/3.jpg",
+      "PackagePath": "staticwebassets/images/drivers/3.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/4.jpg",
+      "PackagePath": "staticwebassets/images/drivers/4.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/5.jpg",
+      "PackagePath": "staticwebassets/images/drivers/5.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/6.jpg",
+      "PackagePath": "staticwebassets/images/drivers/6.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/7.jpg",
+      "PackagePath": "staticwebassets/images/drivers/7.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/8.jpg",
+      "PackagePath": "staticwebassets/images/drivers/8.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/9.jpg",
+      "PackagePath": "staticwebassets/images/drivers/9.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/drivers/bottas1.jpg",
+      "PackagePath": "staticwebassets/images/drivers/bottas1.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/endpoints/driver-id.png",
+      "PackagePath": "staticwebassets/images/endpoints/driver-id.png"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/endpoints/drivers.png",
+      "PackagePath": "staticwebassets/images/endpoints/drivers.png"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/images/pxfuel.jpg",
+      "PackagePath": "staticwebassets/images/pxfuel.jpg"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/safaelfarri/Downloads/DS3103_Webutvikling_Eksamen/Formel1Api/wwwroot/scripts/script.js",
+      "PackagePath": "staticwebassets/scripts/script.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Formel1Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Formel1Api.props",
+      "PackagePath": "build\\Formel1Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Formel1Api.props",
+      "PackagePath": "buildMultiTargeting\\Formel1Api.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Formel1Api.props",
+      "PackagePath": "buildTransitive\\Formel1Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
