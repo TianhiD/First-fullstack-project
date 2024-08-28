@@ -1,0 +1,50 @@
+/* 
+index style
+*/
+
+.btn {
+    background-color: rgb(166, 70, 70);
+    border: 0.3rem solid rgb(255, 244, 244);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    color: rgb(255, 244, 244);
+    cursor: pointer;
+}
+
+#show-output-section {
+    display: grid;
+    gap: 1rem;
+    
+}
+
+#show-output-section article {
+    background-image: linear-gradient(to right, rgb(62, 62, 62) , rgba(0, 123, 255, 0.312));
+    border: 0.2rem solid rgb(255, 244, 244);
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+#show-output-section img {
+    width: 15rem;
+}
+
+/* Media Query */
+
+@media (min-width: 320px) {
+    #show-output-section {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (min-width: 800px) {
+    #show-output-section {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+
+@media (min-width: 1024px) {
+    #show-output-section {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+} 

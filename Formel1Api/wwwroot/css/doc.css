@@ -1,0 +1,29 @@
+/*
+Doc style
+*/
+
+
+.url-section {
+    position: relative;
+    border: 0.5rem solid rgb(166, 70, 70);
+    padding: 1rem;
+}
+
+.response-section {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+   
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.response-section article {
+    box-shadow: 0 0 1rem rgb(166, 70, 70);
+    border-radius: 1rem;
+}
+
+.doc-img {
+    width: 25rem;
+   
+}

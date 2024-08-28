@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 - API</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js"></script>
+    <script type="module" src="scripts/script.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/shared.css">
+</head>
+<body>
+    
+    <div class="main-container">
+
+        <header> 
+             <!--Navigation-->
+            <nav id="navbar">
+                <div class="nav-container">
+                    <a href="index.html">
+                        <img src="images/cars/5.jpg" alt="F1 Logo">
+                    </a>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="docs.html">Docs</a></li>
+                    </ul>
+                </div> 
+            </nav>
+        </header>
+         <!--Main section-->
+        <main>
+            <section class="main-section">
+                <h1>⭐ Welcome to the Formula 1 Api ⭐</h1>
+                <h3> This F1 Api provides the information about the different tables in the F1DB database, and how to use it for your future projects.</h3>
+                <p>The database includes a drivers schema, teams schema and a races schema</p>
+               
+                <section class="btn-section">
+                    <h2>Get the data visualy</h2>
+                        <button type="button" id="get-all-drivers-btn" class="btn">Get All Drivers</button>
+                    
+                        <button type="button" id="get-all-teams-btn" class="btn">Get All Teams</button>
+                        <button type="button" id="get-all-races-btn" class="btn">Get All Races</button>
+                </section>
+
+                <h3>Schema Output</h3>
+                <section id="show-output-section">
+                    <h4>Click on the buttons above to see the data from the F1DB database ⛁</h4>
+                </section>
+            
+            </section>
+        </main>
+         <!--Footer-->
+        <footer>
+            <p>&copy; 2023 - Formula 1 API 🛞</p>
+            <img src="images/cars/6.jpg" alt="F1 Logo">
+        </footer>
+    </div>
+
+</body>
+</html>

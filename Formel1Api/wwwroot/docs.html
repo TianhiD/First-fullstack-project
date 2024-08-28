@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 Docs</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/doc.css">
+    <link rel="stylesheet" href="css/shared.css">
+    <script src="scripts/docs.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.0/axios.min.js"></script>
+</head>
+<body>
+    <div class="main-container">
+
+        <header>
+             <!--Navigation-->
+            <nav id="navbar">
+                <div class="nav-container">
+                    <a href="index.html">
+                        <img src="images/cars/5.jpg" alt="Api F1 Logo">
+                    </a>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="docs.html">Docs</a></li>
+                    </ul>
+                </div> 
+            </nav>
+        </header>
+        <main>
+             <!--Main section-->
+            <section class="main-section">
+
+                <section>
+                    <h1>⭐ How to use the F1 API ⭐</h1>
+                    <h3>This endpoint allows you to do get the information from the F1DB database in JSON format in the web-view. Below you will se examples on how to get the data with the use of endpoints, and a result image </h3>
+                </section>
+
+                <section class="url-section">
+                    <h2>General endpoints</h2>
+                    <p>Base url: http://localhost:5210/</p>
+                    <div>
+                        <h4>GET url: http://localhost:5210/api/</h4>
+                        <p>Drivers url: http://localhost:5210/api/drivers</p>
+                        <p>Teams url: http://localhost:5210/api/teams</p>
+                        <p>Races url: http://localhost:5210/api/races</p>
+                    </div>
+                    <div>
+                        <h4>GET by ID:</h4>
+                        <p>Drivers url: http://localhost:5210/api/drivers/{id}</p>
+                        <p>Teams url: http://localhost:5210/api/teams/{id}</p>
+                        <p>Races url: http://localhost:5210/api/races/{id}</p>
+                    </div>
+                    <div>
+                        <h4>IMAGE Upload</h4>
+                        <p>Image url: http://localhost:5210/api/ImageUpload</p>
+                    </div>
+                </section>
+                <section class="response-section">
+                    <h2>Example response</h2>
+                    <article >
+                        <h3>GET drivers</h3>
+                        <h4>Example request:</h4>
+                        <p>Drivers url: http://localhost:5210/api/drivers</p>
+                        <h4>Example response:</h4>
+                        <img class="doc-img" src="images/endpoints/drivers.png" alt="Drivers endpoint"> 
+                    </article>
+                    <article>
+                        <h3>GET drivers by ID</h3>
+                        <h4>Example request:</h4>
+                        <p>Drivers url: http://localhost:5210/api/drivers/{id}</p>
+                        <h4>Example response:</h4>
+                        <img class="doc-img" src="images/endpoints/driver-id.png" alt="Drivers endpoint"> 
+                
+                    </article>
+                    <article>
+                        <h3>GET drivers by Name</h3>
+                        <h4>Example request:</h4>
+                        <p>Drivers url: http://localhost:5210/api/drivers/GetName/{name}</p>
+                        <h4>Example response:</h4>
+                    </article>
+                    
+                </section>
+                    
+            </section>
+
+            
+        </main>
+         <!--Footer-->
+        <footer>
+            <p>&copy; 2023 - Formula 1 API 🛞</p>
+            <img src="images/cars/6.jpg" alt="F1 Logo">
+        </footer>
+
+    </div>
+
+</body>
+</html>
+
+
